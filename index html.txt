@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anissha ❤️ Kaushik | 3 Months</title>
+  <style>
+    * { box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+    body {
+      margin: 0;
+      background: linear-gradient(135deg, #e8f5e9, #fce4ec);
+      color: #2e7d32;
+      text-align: center;
+    }
+    header {
+      padding: 60px 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #ad1457;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    .card h2 {
+      color: #388e3c;
+      margin-bottom: 15px;
+    }
+    .memory {
+      font-size: 1.1rem;
+      color: #4e342e;
+      line-height: 1.6;
+    }
+    footer {
+      padding: 30px;
+      background: #c8e6c9;
+      color: #1b5e20;
+      font-size: 1rem;
+    }
+    .heart {
+      color: #e91e63;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 2.2rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Anissha <span class="heart">❤️</span> Kaushik</h1>
+    <p>Happy 3 Months • Since 30th October</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>Our Beginning</h2>
+      <p class="memory">
+        From the moment we started talking, something felt different.
+        You slowly became my comfort, my happiness, and my favorite person.
+        These 3 months have meant more to me than you’ll ever know.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Our First Date</h2>
+      <p class="memory">
+        I still remember our first date so clearly.
+        The nervous smiles, the awkward laughs, and how time felt like it was flying.
+        That day made me realize how special you are and how badly I wanted this — *us*.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Why You Mean So Much to Me</h2>
+      <p class="memory">
+        You make my normal days brighter and my bad days easier.
+        Your smile, your voice, the way you care — everything about you matters to me.
+        I’m grateful for you every single day.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>A Small Promise</h2>
+      <p class="memory">
+        I promise to choose you, respect you, and love you — even on the hard days.
+        This is only 3 months, but I hope it’s just the beginning of a long story together.
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    Made with <span class="heart">❤️</span> by Kaushik for Anissha
+  </footer>
+
+</body>
+</html>
